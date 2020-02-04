@@ -1,1 +1,0 @@
-# serveryakudza.giyhub.io
