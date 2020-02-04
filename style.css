@@ -1,0 +1,41 @@
+body
+	{
+    background-image: url(Fon.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+   	color: white; 
+    margin: 0;
+    padding: 0;
+   }
+   a { 
+   	color: white;
+    text-decoration: none; 
+    font-family: Roboto Mono;
+    font-size: 30px;
+   } 
+   a:hover {
+    color: red;  
+    font-family: Roboto Mono;
+   }
+   #content {
+    width: 500px; 
+    margin: 0 auto 50px; 
+   }
+   #footer {
+    position: fixed; 
+    right: 0; bottom: 0;
+    padding: 10px; 
+    padding-left: 40px;
+    color: white; 
+    width: 30%; 
+   }
+.L1 {
+  padding-top: 20px;
+  text-align: center;
+}
+.L3 {
+  padding-top: 10px;
+  font-size: 25px;
+}
