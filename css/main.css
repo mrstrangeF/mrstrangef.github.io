@@ -108,7 +108,7 @@ header.fixed #logo {
 
 #top {
   width: 100%;
-  background-image: url(file:///F:/Discord%20Server/T8NflHc.jpg);
+  background-image: url(https://img0.liveinternet.ru/images/attach/b/3/13/551/13551172_9856234_6578856_siniy_fon1.jpg);
   background-blend-mode: multiply;
   background-color: #666666;
   background-size: cover;
@@ -152,7 +152,7 @@ header.fixed #logo {
   color: #ccc;
 }
 
-/* Блок с возможностями нет */
+/* Блок с возможностями нет*/
 
 #main {
   float: left;
@@ -200,7 +200,7 @@ header.fixed #logo {
 
 #overview {
   float: left;
-  background-image: url(file:///F:/Discord%20Server/starfall-gif.gif);
+  background-image: url(https://bipbap.ru/wp-content/uploads/2017/05/879142.jpg);
 
   background-blend-mode: multiply;
   background-color: #c9c9c9;
