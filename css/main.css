@@ -39,6 +39,11 @@ header #logo span {
   font-family: "Suez One", serif;
 }
 
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
 @media (min-width: 701px) {
   #logo {
     float: left;
@@ -108,7 +113,7 @@ header.fixed #logo {
 
 #top {
   width: 100%;
-  background-image: url(https://img0.liveinternet.ru/images/attach/b/3/13/551/13551172_9856234_6578856_siniy_fon1.jpg);
+  background-image: url(https://cdn.discordapp.com/attachments/674008844937986087/687529302149169162/SAVE_20200312_071246.jpg);
   background-blend-mode: multiply;
   background-color: #666666;
   background-size: cover;
@@ -200,7 +205,7 @@ header.fixed #logo {
 
 #overview {
   float: left;
-  background-image: url(https://bipbap.ru/wp-content/uploads/2017/05/879142.jpg);
+  background-image: url(https://cdn.discordapp.com/attachments/674008844937986087/687529301754642452/SAVE_20200312_071256.jpg);
 
   background-blend-mode: multiply;
   background-color: #c9c9c9;
